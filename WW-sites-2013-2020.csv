@@ -1,138 +1,138 @@
 ﻿SiteID,country,city,location,latitude,longitude,population,institution,website
-site1,AT,Graz,ARA Graz,47.070713,15.439504,487040,,https://biomassspec.gmi.tirol/
-site2,AT,Hall-Wattens,Abwasserverband Hall in Tirol-Fritzens,47.29168,11.59284,78180,,https://biomassspec.gmi.tirol/
-site3,AT,Innsbruck,ARA-Innsbruck,47.269212,11.404102,251656,Institute of Legal Medicine and Core Facility Metabolomics,https://biomassspec.gmi.tirol/
-site4,AT,Kapfenberg,Kläranlage Kapfenberg,47.443562,15.2901,31032,,https://biomassspec.gmi.tirol/
-site5,AT,Klosterneuburg,Klosterneuburg,48.309866,16.323772,30000,"Insitute for Water quality, Resource and Waste management",https://biomassspec.gmi.tirol/
-site6,AT,Kufstein,Abwasserverband Kufstein,47.582958,12.17077,41688,,https://biomassspec.gmi.tirol/
-site7,AT,Mürzzuschlag,Kläranlage Langenwang,47.566639,15.6182,30200,,https://biomassspec.gmi.tirol/
-site8,AT,Purgstall,GAV Erlauftal,48.057812,15.13545,7774,,https://biomassspec.gmi.tirol/
-site9,AT,Region Millstattersee,Wasserverband Millstaettersee,46.81924,13.52146,75500,Institute of Legal Medicine and Core Facility Metabolomics,https://biomassspec.gmi.tirol/
-site10,AT,Strass im Zillertal,AIZ Abwasserverband,47.395748,11.82211,135458,,https://biomassspec.gmi.tirol/
-site11,AT,Wasserverband Hofsteig,ARA Hofsteig,47.4852,9.6762,107000,Institute of Legal Medicine and Core Facility Metabolomics,https://biomassspec.gmi.tirol/
-site12,BA,Sarajevo,Butile,43.87,18.29,130000,Hydro-Engineering Institute Sarajevo,http://www.heis.com.ba/
-site13,BE,Antwerp Deurne,Deurne,51.22,4.46,213876,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
-site14,BE,Antwerp Zuid,Antwerpen-Zuid,51.2,4.39,130218,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
-site15,BE,Boom,Boom,51.08608,4.36633,30600,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
-site16,BE,Brugge,Brugge,51.20942,3.2252,300000,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
-site17,BE,Brussels,Brussel-Noord,50.86,4.36,953987,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
-site18,BE,Geraardsbergen,Geraardsbergen,50.77,3.88,29047,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
-site19,BE,Koksijde,Wulpen,51.1,2.7,78441,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
-site20,BE,Merchtem,Merchtem,50.95842,4.23244,16200,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
-site21,BE,Ninove,Ninove,50.85,4.03,36179,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
-site22,BE,Oostende,Oostende,51.21543,2.928656,159000,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
-site23,BE,Ruisbroek (Puurs),Ruisbroek,50.79035,4.29862,36000,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
-site24,CH,Basel,ARA Basel,47.56,7.59,260000,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
-site25,CH,Berne,ARA Bern,46.83,7.62,206655,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
-site26,CH,Geneva,STEP SIG,46.2,6.17,417200,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
-site27,CH,Lausanne,STEP Vidy,46.52,6.63,220000,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
-site28,CH,Lugano,Bioggio,46.02,8.91,103561,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
-site29,CH,St. Gallen Hofen,St. Gallen Hofen,47.42,9.38,52000,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
-site30,CH,Zurich,Werdhölzli,47.37,8.51,410000,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
-site31,CY,Limassol,Sewerage Board of Limassol-Amathus (SBLA),34.69,33.02,188249,"NIREAS, International Water Research Center, University of Cyprus",http://www.nireas-iwrc.org/
-site32,CY,Nicosia,Sewage treatment plant of Pano Deftera (Anthoupoli)-Sewerage Board of Nicosia,35.17,33.4,35208,"NIREAS, International Water Research Center, University of Cyprus",http://www.nireas-iwrc.org/
-site33,CZ,Brno,Waterworks and sewage of city Brno,49.19506,16.606837,445000,T. G. Masaryk Water Research Institute,https://www.vuv.cz
-site34,CZ,Budweis,UCOV CB,48.96,14.46,110300,T. G. Masaryk Water Research Institute,https://www.vuv.cz
-site35,CZ,Karlovy Vary,?OV Karloy Vary,50.23204,12.87099,67544,T. G. Masaryk Water Research Institute,https://www.vuv.cz
-site36,CZ,Ostrava,Ú?OV Ostrava,49.833864,18.281034,250000,T. G. Masaryk Water Research Institute,https://www.vuv.cz
-site37,CZ,Prague,UCOV Praha,50.08,14.43,1212000,T. G. Masaryk Water Research Institute,https://www.vuv.cz
-site38,DE,Berlin (4),Berlin 4 plants,52.52,13.4,3993500,Technische Universitat Dresden,https://www.tu-dresden.de
-site39,DE,Chemnitz,Chemnitz,50.827845,12.92137,239402,Technische Universitat Dresden,https://www.tu-dresden.de
-site40,DE,Dortmund,Deusen,51.52,7.46,399700,Technische Universitat Dresden,https://www.tu-dresden.de
-site41,DE,Dresden,Dresden-Kaditz,51.05089,13.73832,671806,Technische Universitat Dresden,https://www.tu-dresden.de
-site42,DE,Dülmen,Dülmen,51.84,7.28,34733,Technische Universitat Dresden,https://www.tu-dresden.de
-site43,DE,Erfurt,Erfurt,50.984768,11.02988,215750,Technische Universitat Dresden,https://www.tu-dresden.de
-site44,DE,Frankfurt (3),Frankfurt 3 plants,50.110922,8.682127,1118389,Technische Universitat Dresden,https://www.tu-dresden.de
-site45,DE,Hamburg (2),Hamburg 2 plants,53.551085,9.993682,2050000,Technische Universitat Dresden,https://www.tu-dresden.de
-site46,DE,Hannover (2),Hannover 2 plants,52.375892,9.73201,740000,Technische Universitat Dresden,https://www.tu-dresden.de
-site47,DE,Magdeburg,,52.120533,11.627624,278236,Technische Universitat Dresden,https://www.tu-dresden.de
-site48,DE,Mainz,Mainz,49.992862,8.247253,200344,Technische Universitat Dresden,https://www.tu-dresden.de
-site49,DE,Munich Gut_Grosslappen,Gut_Grosslappen,48.14,11.58,1156000,Technische Universitat Dresden,https://www.tu-dresden.de
-site50,DE,Nuremberg,Nürnberg,49.452102,11.076665,445593,Technische Universitat Dresden,https://www.tu-dresden.de
-site51,DE,Rostock,Rostock,54.092441,12.099147,237316,Technische Universitat Dresden,https://www.tu-dresden.de
-site52,DE,Saarbrucken (2),Saarbrucken 2 plants,49.240157,6.996933,203643,Technische Universitat Dresden,https://www.tu-dresden.de
-site53,DE,Stuttgart,Stuttgart,48.775846,9.182932,602000,Technische Universitat Dresden,https://www.tu-dresden.de
-site54,DK,Copenhagen,Lynetten,55.69,12.62,685000,"Section of Forensic Chemistry, University of Copenhagen",https://retsmedicin.ku.dk/english/aboutnew/forensic_chemistry/
-site55,ES,Barcelona,Baix Llobregat,41.43,1.97,1169300,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
-site56,ES,Castellon,EDAR Castellón,40.23,-0.12,177088,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
-site57,ES,Madrid VdlV,Viveros de la Villa,40.41669,-3.70035,440800,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
-site58,ES,Molina de Segura,,38.051681,-1.207326,70709,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
-site59,ES,Santiago,Silvouta,42.88,-8.54,136500,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
-site60,ES,Valencia (3),Valencia 3 plants,39.46,-0.33,1191210,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
-site61,FI,Espoo,Suomenoja,60.16,24.71,390000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site62,FI,Helsinki,Viikinmäki,60.23,24.99,860000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site63,FI,Hämeenlinna,Paroinen,60.99601,24.46423,67000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site64,FI,Joensuu,Kuhasalo,62.58,29.73,82667,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site65,FI,Jyväskylä,Nenäinniemi,62.21,25.77,155000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site66,FI,Kajaani,Peuraniemi,64.227,27.7285,33714,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site67,FI,Kemi,Peurasaari,65.73609,24.56363,25000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site68,FI,Kokkola,Hopeakivenlahti,63.83848,23.13048,36000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site69,FI,Kotka,Mussalo,60.45,26.89,72500,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site70,FI,Kouvola,Mäkikylä,60.8679,26.70405,70000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site71,FI,Kuopio,Lehtoniemi,62.96,27.01,90697,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site72,FI,Lahti,Kariniemi,60.99,25.65,63000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site73,FI,Lappeenranta,Toikansuo,60.93,27.3,60000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site74,FI,Mariehamn,Lotsbroverket,60.09693,19.93482,20000,RISE Research Institutes of Sweden,https://www.ri.se/en
-site75,FI,Mikkeli,Kenkäveronniemi,61.68852,27.27217,42000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site76,FI,Oulu,Taskila,65.05,25.41,200526,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site77,FI,Pietarsaari,Alheda,63.67486,22.70256,41100,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site78,FI,Pori,Luotsinmäki,61.48519,21.79746,114000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site79,FI,Rauma,Maanpäänniemi,61.12724,21.51127,40000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site80,FI,Rovaniemi,Alakorkalo,66.5,25.72,55000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site81,FI,Salo,Salo,60.38333,23.13333,34700,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site82,FI,Savonlinna,Pihlajaniemi,61.86,28.85,23000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site83,FI,Seinäjoki,Seinäjoki,62.79446,22.82822,55000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site84,FI,Tampere,Viinikanlahti,61.49,23.77,200000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site85,FI,Turku,Kakolanmäki,60.44,22.24,300000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site86,FI,Vaasa,Patt,63.1,21.62,69252,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site87,FI,Vihti,Nummela,60.41699,24.31965,17500,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
-site88,FR,Bordeaux I,Louis Fargue,44.837789   ,-0.58,254338,"Faculty of Pharmacy, University Paris Sud",https://www.lspe.u-psud.fr/
-site89,FR,Fort-de-France P,Pointe des Nègres,14.616065,-61.05878,19000,"Faculty of Pharmacy, University Paris Sud",https://www.lspe.u-psud.fr/
-site90,FR,Paris Seine Centre,Seine Centre,48.95,2.27,627804,"Faculty of Pharmacy, University Paris Sud",https://www.lspe.u-psud.fr/
-site91,FR,Paris South Suburbs,South Suburbs,48.856614,2.352222,83951,"Faculty of Pharmacy, University Paris Sud",https://www.lspe.u-psud.fr/
-site92,GB,Bristol,Avonmouth,51.503457,-2.698444,886650,"Department of Chemistry, University of Bath",http://www.bath.ac.uk/chemistry/
-site93,GB,London,Beckton,51.53,0.05,3400000,"Analytical & Environmental Sciences Division, King's College London, UK",http://www.kcl.ac.uk
-site94,GR,Athens,City of Athens WWTP,37.9928017,23.765801,3700000,"Laboratory of Analytical Chemistry, University of Athens",http://www.chem.uoa.gr/
-site95,GR,Eleusis,City of eleusis WWTP,38.323372,23.31678,25000,,
-site96,GR,Mytilene,,39.106738,26.557275,26000,"Laboratory of Analytical Chemistry, University of Athens",
-site97,GR,Thessaloniki,,40.640063,22.944419,850000,"Laboratory of Analytical Chemistry, University of Athens",
-site98,HR,Zagreb,Central wastewater treatment plant of the city of Zagreb,45.7929993,15.9464,650000,Rudjer Boskovic Institute,http://www.irb.hr/eng
-site99,IS,Reykjavik Klettagarðar,Klettagarðar,64.126521,-21.817439,103031,"Department of Pharmacology and Toxicology, University of Iceland",http://english.hi.is/
-site100,IT,Bozen,Kläranlage Bozen,46.49672,11.358,261332,Institute of Legal Medicine and Core Facility Metabolomics,https://biomassspec.gmi.tirol/
-site101,IT,Milan,Nosedo,45.4337997,9.2213602,891367,"IRCCS, Istituto di Ricerche Farmacologiche  Mario Negri",http://www.marionegri.it/mn/en/
-site102,LT,Kaunas,Kaunas,54.89687,23.89243,288363,"Drug, Tobacco and Alcohol Control Department",http://ntakd.lrv.lt/en/
-site103,LT,Klaipeda,Klaipeda,55.78282,21.49279,164038,"Drug, Tobacco and Alcohol Control Department",http://ntakd.lrv.lt/en/
-site104,LT,Vilnius,Vilniaus vandenys,54.687156,25.279651,545280,"Drug, Tobacco and Alcohol Control Department",http://ntakd.lrv.lt/en/
-site105,LV,Riga,Riga,56.94965,24.105186,619703,Slimibu Profilakses un Kontroles centrs,https://www.spkc.gov.lv
-site106,MT,Malta,,35.937496,14.375416,296297,,
-site107,NL,Amsterdam,RWZI Amsterdam-WEST,52.375,4.8666668,769000,KWR,https://www.kwrwater.nl/en/
-site108,NL,Eindhoven,RWZI Eindhoven,51.4421082,5.4800701,450300,KWR,https://www.kwrwater.nl/en/
-site109,NL,Nieuwegein Ijssel.,RWZI Nieuwegein,52.024821,5.091819,96000,KWR,https://www.kwrwater.nl/en/
-site110,NL,Oudewater,RWZI Oudewater,52.024163,4.868417,10110,KWR,https://www.kwrwater.nl/en/
-site111,NL,Utrecht,RWZI Utrecht,52.0858002,5.1308398,300000,KWR,https://www.kwrwater.nl/en/
-site112,NO,Oslo,VEAS,59.9156914,10.857625,624642,Norwegian Institute for Water Research (NIVA),https://www.niva.no/drugmon
-site113,PL,Krakow P,Krakow Plaszow,50.06,19.94,680000,AGH University of Science and Technology,http://www.agh.edu.pl/en/
-site114,PT,Almada,Mutela,38.675187,-9.154345,138685,"Faculty of Pharmacy - University of Lisbon, and National Institute of Legal Medicine and Forensic Sciences",http://www.ff.ul.pt/servicos-exterior/contactos/
-site115,PT,Lisbon,Alcântara,38.7044907,-9.1754999,426964,"Faculty of Pharmacy - University of Lisbon, and National Institute of Legal Medicine and Forensic Sciences",http://www.ff.ul.pt/servicos-exterior/contactos/
-site116,PT,Porto,,41.157944,-8.629105,150000,CIIMAR - University of Porto,www2.ciimar.up.pt
-site117,RO,Cluj Napoca,,46.7780991,23.6136,350000,"Toxicological Center, University of Antwerp",https//www.uantwerpen.be/en/rg/tox/
-site118,RS,Belgrade,Sewer system Usce (outlet in Danube river),44.8130989,20.463261,284347,,
-site119,RS,Novi Sad,,45.3039017,19.8267,310312,"University of Novi Sad, Faculty of Technical Sciences, Department of Environmental Engineering and Occupational Safety",https://www.uns.ac.rs
-site120,SE,Gothenburg,Ryaverket,57.6828995,12.0729,664441,"Department of Chemistry, Umea University",http://www.chemistry.umu.se/english/
-site121,SE,Gävle,Duvbacken,60.674622,17.14183,85000,RISE Research Institutes of Sweden,https://www.ri.se/en
-site122,SE,Sandviken,Hedåsen ARV,60.61667,16.76667,28000,,
-site123,SE,Stockholm (2),Henriksdal 1 and Sicklainloppet,59.329323,18.068581,848000,,
-site124,SE,Söderhamn,Granskär ARV,61.30373,17.05921,14500,,
-site125,SE,Umea,Ons avloppsreningsverk,63.8181992,20.315001,115800,"Department of Chemistry, Umea University",http://www.chemistry.umu.se/english/
-site126,SE,Uppsala,Site 1,59.858562,17.638927,200000,,
-site127,SI,Domžale-Kamnik,Domžale-Kamnik,46.13788,14.59384,77981,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
-site128,SI,Koper,Central wastewater treatment plant Koper,45.548058,13.730188,49843,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
-site129,SI,Ljubljana,Central wastewater treatment plant Ljubljana,46.056947,14.505751,270305,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
-site130,SI,Maribor,Maribor,46.55734,15.64591,129000,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
-site131,SI,Novo mesto,Wastewater treatment plant Novo mesto,45.804211,15.16969,25414,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
-site132,SI,Velenje,Central wastewater treatment plant Šaleške Doline (Šalek Valley),46.362274,15.110658,35280,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
-site133,SK,Bratislava (2),Bratislava 2 plants,48.14925,17.106991,600000,"Department of Environmental Engineering, Slovak University of Technology Bratislava",https://www.stuba.sk/english.html?page_id=132
-site134,SK,Piestany,,48.5918007,17.801901,30000,"Department of Environmental Engineering, Slovak University of Technology Bratislava",https://www.stuba.sk/english.html?page_id=132
-site135,TR,Adana,Seyhan,36.991421,35.33083,1159215,,
-site136,TR,Istanbul I,Catalca-Ahmediye,41.013,28.9748,69000,"Forensic Toxicology Labs. Institute of Forensic Sciences and Legal Medicine, Istanbul University-Cerrahpasa",https://adlitip.istanbulc.edu.tr/tr/_
-site137,TR,Istanbul (II-VII),Istanbul (II-VII),41.013,28.9748,16525000,"Forensic Toxicology Labs. Institute of Forensic Sciences and Legal Medicine, Istanbul University-Cerrahpasa",https://adlitip.istanbulc.edu.tr/tr/_
+site1,Austria,Graz,ARA Graz,47.070713,15.439504,487040,,https://biomassspec.gmi.tirol/
+site2,Austria,Hall-Wattens,Abwasserverband Hall in Tirol-Fritzens,47.29168,11.59284,78180,,https://biomassspec.gmi.tirol/
+site3,Austria,Innsbruck,ARA-Innsbruck,47.269212,11.404102,251656,Institute of Legal Medicine and Core Facility Metabolomics,https://biomassspec.gmi.tirol/
+site4,Austria,Kapfenberg,Kläranlage Kapfenberg,47.443562,15.2901,31032,,https://biomassspec.gmi.tirol/
+site5,Austria,Klosterneuburg,Klosterneuburg,48.309866,16.323772,30000,"Insitute for Water quality, Resource and Waste management",https://biomassspec.gmi.tirol/
+site6,Austria,Kufstein,Abwasserverband Kufstein,47.582958,12.17077,41688,,https://biomassspec.gmi.tirol/
+site7,Austria,Mürzzuschlag,Kläranlage Langenwang,47.566639,15.6182,30200,,https://biomassspec.gmi.tirol/
+site8,Austria,Purgstall,GAV Erlauftal,48.057812,15.13545,7774,,https://biomassspec.gmi.tirol/
+site9,Austria,Region Millstattersee,Wasserverband Millstaettersee,46.81924,13.52146,75500,Institute of Legal Medicine and Core Facility Metabolomics,https://biomassspec.gmi.tirol/
+site10,Austria,Strass im Zillertal,AIZ Abwasserverband,47.395748,11.82211,135458,,https://biomassspec.gmi.tirol/
+site11,Austria,Wasserverband Hofsteig,ARA Hofsteig,47.4852,9.6762,107000,Institute of Legal Medicine and Core Facility Metabolomics,https://biomassspec.gmi.tirol/
+site12,Bosnia,Sarajevo,Butile,43.87,18.29,130000,Hydro-Engineering Institute Sarajevo,http://www.heis.com.ba/
+site13,Belgium,Antwerp Deurne,Deurne,51.22,4.46,213876,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
+site14,Belgium,Antwerp Zuid,Antwerpen-Zuid,51.2,4.39,130218,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
+site15,Belgium,Boom,Boom,51.08608,4.36633,30600,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
+site16,Belgium,Brugge,Brugge,51.20942,3.2252,300000,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
+site17,Belgium,Brussels,Brussel-Noord,50.86,4.36,953987,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
+site18,Belgium,Geraardsbergen,Geraardsbergen,50.77,3.88,29047,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
+site19,Belgium,Koksijde,Wulpen,51.1,2.7,78441,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
+site20,Belgium,Merchtem,Merchtem,50.95842,4.23244,16200,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
+site21,Belgium,Ninove,Ninove,50.85,4.03,36179,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
+site22,Belgium,Oostende,Oostende,51.21543,2.928656,159000,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
+site23,Belgium,Ruisbroek (Puurs),Ruisbroek,50.79035,4.29862,36000,"Toxicological Center, University of Antwerp",https://www.uantwerpen.be/en/rg/tox/
+site24,Switzerland,Basel,ARA Basel,47.56,7.59,260000,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
+site25,Switzerland,Berne,ARA Bern,46.83,7.62,206655,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
+site26,Switzerland,Geneva,STEP SIG,46.2,6.17,417200,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
+site27,Switzerland,Lausanne,STEP Vidy,46.52,6.63,220000,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
+site28,Switzerland,Lugano,Bioggio,46.02,8.91,103561,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
+site29,Switzerland,St. Gallen Hofen,St. Gallen Hofen,47.42,9.38,52000,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
+site30,Switzerland,Zurich,Werdhölzli,47.37,8.51,410000,"Faculté de droit, des sciences criminelles et d'administration publique - Lausanne, and Eawag - Urban Water Management",
+site31,Cyprus,Limassol,Sewerage Board of Limassol-Amathus (SBLA),34.69,33.02,188249,"NIREAS, International Water Research Center, University of Cyprus",http://www.nireas-iwrc.org/
+site32,Cyprus,Nicosia,Sewage treatment plant of Pano Deftera (Anthoupoli)-Sewerage Board of Nicosia,35.17,33.4,35208,"NIREAS, International Water Research Center, University of Cyprus",http://www.nireas-iwrc.org/
+site33,Czech,Brno,Waterworks and sewage of city Brno,49.19506,16.606837,445000,T. G. Masaryk Water Research Institute,https://www.vuv.cz
+site34,Czech,Budweis,UCOV CB,48.96,14.46,110300,T. G. Masaryk Water Research Institute,https://www.vuv.cz
+site35,Czech,Karlovy Vary,?OV Karloy Vary,50.23204,12.87099,67544,T. G. Masaryk Water Research Institute,https://www.vuv.cz
+site36,Czech,Ostrava,Ú?OV Ostrava,49.833864,18.281034,250000,T. G. Masaryk Water Research Institute,https://www.vuv.cz
+site37,Czech,Prague,UCOV Praha,50.08,14.43,1212000,T. G. Masaryk Water Research Institute,https://www.vuv.cz
+site38,Germany,Berlin (4),Berlin 4 plants,52.52,13.4,3993500,Technische Universitat Dresden,https://www.tu-dresden.de
+site39,Germany,Chemnitz,Chemnitz,50.827845,12.92137,239402,Technische Universitat Dresden,https://www.tu-dresden.de
+site40,Germany,Dortmund,Deusen,51.52,7.46,399700,Technische Universitat Dresden,https://www.tu-dresden.de
+site41,Germany,Dresden,Dresden-Kaditz,51.05089,13.73832,671806,Technische Universitat Dresden,https://www.tu-dresden.de
+site42,Germany,Dülmen,Dülmen,51.84,7.28,34733,Technische Universitat Dresden,https://www.tu-dresden.de
+site43,Germany,Erfurt,Erfurt,50.984768,11.02988,215750,Technische Universitat Dresden,https://www.tu-dresden.de
+site44,Germany,Frankfurt (3),Frankfurt 3 plants,50.110922,8.682127,1118389,Technische Universitat Dresden,https://www.tu-dresden.de
+site45,Germany,Hamburg (2),Hamburg 2 plants,53.551085,9.993682,2050000,Technische Universitat Dresden,https://www.tu-dresden.de
+site46,Germany,Hannover (2),Hannover 2 plants,52.375892,9.73201,740000,Technische Universitat Dresden,https://www.tu-dresden.de
+site47,Germany,Magdeburg,,52.120533,11.627624,278236,Technische Universitat Dresden,https://www.tu-dresden.de
+site48,Germany,Mainz,Mainz,49.992862,8.247253,200344,Technische Universitat Dresden,https://www.tu-dresden.de
+site49,Germany,Munich Gut_Grosslappen,Gut_Grosslappen,48.14,11.58,1156000,Technische Universitat Dresden,https://www.tu-dresden.de
+site50,Germany,Nuremberg,Nürnberg,49.452102,11.076665,445593,Technische Universitat Dresden,https://www.tu-dresden.de
+site51,Germany,Rostock,Rostock,54.092441,12.099147,237316,Technische Universitat Dresden,https://www.tu-dresden.de
+site52,Germany,Saarbrucken (2),Saarbrucken 2 plants,49.240157,6.996933,203643,Technische Universitat Dresden,https://www.tu-dresden.de
+site53,Germany,Stuttgart,Stuttgart,48.775846,9.182932,602000,Technische Universitat Dresden,https://www.tu-dresden.de
+site54,Denmark,Copenhagen,Lynetten,55.69,12.62,685000,"Section of Forensic Chemistry, University of Copenhagen",https://retsmedicin.ku.dk/english/aboutnew/forensic_chemistry/
+site55,Spain,Barcelona,Baix Llobregat,41.43,1.97,1169300,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
+site56,Spain,Castellon,EDAR Castellón,40.23,-0.12,177088,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
+site57,Spain,Madrid VdlV,Viveros de la Villa,40.41669,-3.70035,440800,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
+site58,Spain,Molina de Segura,,38.051681,-1.207326,70709,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
+site59,Spain,Santiago,Silvouta,42.88,-8.54,136500,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
+site60,Spain,Valencia (3),Valencia 3 plants,39.46,-0.33,1191210,"Research Institute for Pesticides and Water, University Jaume I",https://www.uji.es/institucional/estructura/instituts/iupa/?urlRedirect=http://www.uji.es/institucional/estructura/instituts/iupa/&url=/institucional/estructura/instituts/iupa/
+site61,Finland,Espoo,Suomenoja,60.16,24.71,390000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site62,Finland,Helsinki,Viikinmäki,60.23,24.99,860000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site63,Finland,Hämeenlinna,Paroinen,60.99601,24.46423,67000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site64,Finland,Joensuu,Kuhasalo,62.58,29.73,82667,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site65,Finland,Jyväskylä,Nenäinniemi,62.21,25.77,155000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site66,Finland,Kajaani,Peuraniemi,64.227,27.7285,33714,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site67,Finland,Kemi,Peurasaari,65.73609,24.56363,25000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site68,Finland,Kokkola,Hopeakivenlahti,63.83848,23.13048,36000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site69,Finland,Kotka,Mussalo,60.45,26.89,72500,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site70,Finland,Kouvola,Mäkikylä,60.8679,26.70405,70000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site71,Finland,Kuopio,Lehtoniemi,62.96,27.01,90697,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site72,Finland,Lahti,Kariniemi,60.99,25.65,63000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site73,Finland,Lappeenranta,Toikansuo,60.93,27.3,60000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site74,Finland,Mariehamn,Lotsbroverket,60.09693,19.93482,20000,RISE Research Institutes of Sweden,https://www.ri.se/en
+site75,Finland,Mikkeli,Kenkäveronniemi,61.68852,27.27217,42000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site76,Finland,Oulu,Taskila,65.05,25.41,200526,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site77,Finland,Pietarsaari,Alheda,63.67486,22.70256,41100,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site78,Finland,Pori,Luotsinmäki,61.48519,21.79746,114000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site79,Finland,Rauma,Maanpäänniemi,61.12724,21.51127,40000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site80,Finland,Rovaniemi,Alakorkalo,66.5,25.72,55000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site81,Finland,Salo,Salo,60.38333,23.13333,34700,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site82,Finland,Savonlinna,Pihlajaniemi,61.86,28.85,23000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site83,Finland,Seinäjoki,Seinäjoki,62.79446,22.82822,55000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site84,Finland,Tampere,Viinikanlahti,61.49,23.77,200000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site85,Finland,Turku,Kakolanmäki,60.44,22.24,300000,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site86,Finland,Vaasa,Patt,63.1,21.62,69252,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site87,Finland,Vihti,Nummela,60.41699,24.31965,17500,National Institute for Health and Welfare (THL),thl.fi/en/web/thlfi-en
+site88,France,Bordeaux I,Louis Fargue,44.837789   ,-0.58,254338,"Faculty of Pharmacy, University Paris Sud",https://www.lspe.u-psud.fr/
+site89,France,Fort-de-France P,Pointe des Nègres,14.616065,-61.05878,19000,"Faculty of Pharmacy, University Paris Sud",https://www.lspe.u-psud.fr/
+site90,France,Paris Seine Centre,Seine Centre,48.95,2.27,627804,"Faculty of Pharmacy, University Paris Sud",https://www.lspe.u-psud.fr/
+site91,France,Paris South Suburbs,South Suburbs,48.856614,2.352222,83951,"Faculty of Pharmacy, University Paris Sud",https://www.lspe.u-psud.fr/
+site92,UK,Bristol,Avonmouth,51.503457,-2.698444,886650,"Department of Chemistry, University of Bath",http://www.bath.ac.uk/chemistry/
+site93,UK,London,Beckton,51.53,0.05,3400000,"Analytical & Environmental Sciences Division, King's College London, UK",http://www.kcl.ac.uk
+site94,Greece,Athens,City of Athens WWTP,37.9928017,23.765801,3700000,"Laboratory of Analytical Chemistry, University of Athens",http://www.chem.uoa.gr/
+site95,Greece,Eleusis,City of eleusis WWTP,38.323372,23.31678,25000,,
+site96,Greece,Mytilene,,39.106738,26.557275,26000,"Laboratory of Analytical Chemistry, University of Athens",
+site97,Greece,Thessaloniki,,40.640063,22.944419,850000,"Laboratory of Analytical Chemistry, University of Athens",
+site98,Croatia,Zagreb,Central wastewater treatment plant of the city of Zagreb,45.7929993,15.9464,650000,Rudjer Boskovic Institute,http://www.irb.hr/eng
+site99,Iceland,Reykjavik Klettagarðar,Klettagarðar,64.126521,-21.817439,103031,"Department of Pharmacology and Toxicology, University of Iceland",http://english.hi.is/
+site100,Italy,Bozen,Kläranlage Bozen,46.49672,11.358,261332,Institute of Legal Medicine and Core Facility Metabolomics,https://biomassspec.gmi.tirol/
+site101,Italy,Milan,Nosedo,45.4337997,9.2213602,891367,"IRCCS, Istituto di Ricerche Farmacologiche  Mario Negri",http://www.marionegri.it/mn/en/
+site102,Lithuania,Kaunas,Kaunas,54.89687,23.89243,288363,"Drug, Tobacco and Alcohol Control Department",http://ntakd.lrv.lt/en/
+site103,Lithuania,Klaipeda,Klaipeda,55.78282,21.49279,164038,"Drug, Tobacco and Alcohol Control Department",http://ntakd.lrv.lt/en/
+site104,Lithuania,Vilnius,Vilniaus vandenys,54.687156,25.279651,545280,"Drug, Tobacco and Alcohol Control Department",http://ntakd.lrv.lt/en/
+site105,Latvia,Riga,Riga,56.94965,24.105186,619703,Slimibu Profilakses un Kontroles centrs,https://www.spkc.gov.lv
+site106,Malta,Malta,,35.937496,14.375416,296297,,
+site107,Netherland,Amsterdam,RWZI Amsterdam-WEST,52.375,4.8666668,769000,KWR,https://www.kwrwater.nl/en/
+site108,Netherland,Eindhoven,RWZI Eindhoven,51.4421082,5.4800701,450300,KWR,https://www.kwrwater.nl/en/
+site109,Netherland,Nieuwegein Ijssel.,RWZI Nieuwegein,52.024821,5.091819,96000,KWR,https://www.kwrwater.nl/en/
+site110,Netherland,Oudewater,RWZI Oudewater,52.024163,4.868417,10110,KWR,https://www.kwrwater.nl/en/
+site111,Netherland,Utrecht,RWZI Utrecht,52.0858002,5.1308398,300000,KWR,https://www.kwrwater.nl/en/
+site112,Norway,Oslo,VEAS,59.9156914,10.857625,624642,Norwegian Institute for Water Research (NIVA),https://www.niva.no/drugmon
+site113,Poland,Krakow P,Krakow Plaszow,50.06,19.94,680000,AGH University of Science and Technology,http://www.agh.edu.pl/en/
+site114,Portugal,Almada,Mutela,38.675187,-9.154345,138685,"Faculty of Pharmacy - University of Lisbon, and National Institute of Legal Medicine and Forensic Sciences",http://www.ff.ul.pt/servicos-exterior/contactos/
+site115,Portugal,Lisbon,Alcântara,38.7044907,-9.1754999,426964,"Faculty of Pharmacy - University of Lisbon, and National Institute of Legal Medicine and Forensic Sciences",http://www.ff.ul.pt/servicos-exterior/contactos/
+site116,Portugal,Porto,,41.157944,-8.629105,150000,CIIMAR - University of Porto,www2.ciimar.up.pt
+site117,Romania,Cluj Napoca,,46.7780991,23.6136,350000,"Toxicological Center, University of Antwerp",https//www.uantwerpen.be/en/rg/tox/
+site118,Serbia,Belgrade,Sewer system Usce (outlet in Danube river),44.8130989,20.463261,284347,,
+site119,Serbia,Novi Sad,,45.3039017,19.8267,310312,"University of Novi Sad, Faculty of Technical Sciences, Department of Environmental Engineering and Occupational Safety",https://www.uns.ac.rs
+site120,Sweden,Gothenburg,Ryaverket,57.6828995,12.0729,664441,"Department of Chemistry, Umea University",http://www.chemistry.umu.se/english/
+site121,Sweden,Gävle,Duvbacken,60.674622,17.14183,85000,RISE Research Institutes of Sweden,https://www.ri.se/en
+site122,Sweden,Sandviken,Hedåsen ARV,60.61667,16.76667,28000,,
+site123,Sweden,Stockholm (2),Henriksdal 1 and Sicklainloppet,59.329323,18.068581,848000,,
+site124,Sweden,Söderhamn,Granskär ARV,61.30373,17.05921,14500,,
+site125,Sweden,Umea,Ons avloppsreningsverk,63.8181992,20.315001,115800,"Department of Chemistry, Umea University",http://www.chemistry.umu.se/english/
+site126,Sweden,Uppsala,Site 1,59.858562,17.638927,200000,,
+site127,Slovenia,Domžale-Kamnik,Domžale-Kamnik,46.13788,14.59384,77981,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
+site128,Slovenia,Koper,Central wastewater treatment plant Koper,45.548058,13.730188,49843,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
+site129,Slovenia,Ljubljana,Central wastewater treatment plant Ljubljana,46.056947,14.505751,270305,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
+site130,Slovenia,,Maribor,Maribor,46.55734,15.64591,129000,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
+site131,Slovenia,,Novo mesto,Wastewater treatment plant Novo mesto,45.804211,15.16969,25414,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
+site132,Slovenia,Velenje,Central wastewater treatment plant Šaleške Doline (Šalek Valley),46.362274,15.110658,35280,Jožef Stefan Institute,https://www.ijs.si/ijsw/V001/JSI
+site133,Slovakia,Bratislava (2),Bratislava 2 plants,48.14925,17.106991,600000,"Department of Environmental Engineering, Slovak University of Technology Bratislava",https://www.stuba.sk/english.html?page_id=132
+site134,Slovakia,Piestany,,48.5918007,17.801901,30000,"Department of Environmental Engineering, Slovak University of Technology Bratislava",https://www.stuba.sk/english.html?page_id=132
+site135,Turkey,Adana,Seyhan,36.991421,35.33083,1159215,,
+site136,Turkey,Istanbul I,Catalca-Ahmediye,41.013,28.9748,69000,"Forensic Toxicology Labs. Institute of Forensic Sciences and Legal Medicine, Istanbul University-Cerrahpasa",https://adlitip.istanbulc.edu.tr/tr/_
+site137,Turkey,Istanbul (II-VII),Istanbul (II-VII),41.013,28.9748,16525000,"Forensic Toxicology Labs. Institute of Forensic Sciences and Legal Medicine, Istanbul University-Cerrahpasa",https://adlitip.istanbulc.edu.tr/tr/_
